@@ -1,0 +1,1 @@
+# regolithdb-cookiecutter
