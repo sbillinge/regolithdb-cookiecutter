@@ -1,0 +1,10 @@
+{{cookiecutter.id_for_me}}:
+  todos:
+    - description: Do all the things to set up todos in regolith
+      due_date: 2021-07-29
+      begin_date: 2021-05-14
+      deadline: true
+      duration: 60.0
+      importance: 3
+      status: started
+      running_index: 1

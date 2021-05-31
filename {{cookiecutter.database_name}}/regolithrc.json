@@ -1,0 +1,11 @@
+{"groupname": "{{cookiecutter.my_group_name}}",
+ "default_user_id": "{{cookiecutter.id_for_me}}",
+ "user_first_name": "{{cookiecutter.my_first_name}}",
+ "databases": [
+  {"name": "{{cookiecutter.my_group_name}}-private",
+   "url": "..",
+   "public": false,
+   "path": "./{{cookiecutter.database_name}}/db",
+   "local": true}
+ ]
+}

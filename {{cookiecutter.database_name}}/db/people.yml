@@ -1,0 +1,45 @@
+{{cookiecutter.id_for_me}}:
+  active: true
+  aka:
+    - {{cookiecutter.my_last_name}}, {{cookiecutter.my_first_name}}
+  avatar: https://github.com/{{cookiecutter.id_for_me}}.png
+  bio: "{{cookiecutter.my_last_name}} is very successful and loves pets"
+  education:
+    - institution: {{cookiecutter.undergrad_institution}}
+      begin_year: {{cookiecutter.undergrad_begin_year}}
+      end_year: {{cookiecutter.undergrad_end_year}}
+      department: {{cookiecutter.undergrad_department}}
+      degree: {{cookiecutter.undergrad_degree}} 
+      advisor: ""
+      other: []
+  email: ""
+  employment:
+    - organization: {{cookiecutter.current_work_organization}}
+      begin_date: {{cookiecutter.current_work_begin_date}}
+      other: []
+      department: {{cookiecutter.current_work_dept}}
+      position: professor
+  funding: []
+  github_id: ""
+  google_scholar_url: ""
+  honors:
+    - name: Prize for Contributiosn to Optimism
+      year: 2020
+  initials: ""
+  membership:
+    - organization: Association for Inclusivity
+      begin_year: 2002
+      begin_month: Mar
+      position: Member
+  name: {{cookiecutter.my_first_name}} {{cookiecutter.my_last_name}}
+  orcid_id: 0000-0000-0000-0000
+  position: {{cookiecutter.current_work_position}}
+  research_focus_areas:
+    - description: More happiness through better software
+      begin_year: 2005
+  service:
+    - type: profession
+      name: Served on the President's committee for inclusivity
+      year: 2015
+  skills: []
+  title: Prof.

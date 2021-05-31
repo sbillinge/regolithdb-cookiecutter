@@ -1,0 +1,16 @@
+{
+    "database_name": "my-cv-db",
+    "my_first_name": "Albert",
+    "my_last_name": "Einstein",
+    "id_for_me": "aeinstein",
+    "my_group_name": "Einstein Group",
+    "undergrad_institution": "University of Health and Happiness",
+    "undergrad_department": "Department of Inclusivity",
+    "undergrad_degree": "BA",
+    "undergrad_begin_year": 2016,
+    "undergrad_end_year": 2020,
+    "current_work_organization": "University of Wealth and Prosperity",
+    "current_work_dept": "Inclusivity Relations",
+    "current_work_begin_date": "2008-10-01",
+    "current_work_position": "Inclusivity Specialist"
+}
