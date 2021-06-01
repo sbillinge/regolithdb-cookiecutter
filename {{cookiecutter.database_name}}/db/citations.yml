@@ -1,0 +1,19 @@
+{{cookiecutter.id_for_me}};pub1:
+  ackno: ""
+  author:
+    - {{cookiecutter.my_last_name}}, {{cookiecutter.my_first_name}}
+    - A. N. Other Author
+  doi: 10.1016/j.iheduc.2008.03.001
+  entrytype: article
+  facility: ""
+  grant: ""
+  journal: Nature
+  month: jan
+  nb: ""
+  number: '1'
+  optnote: ''
+  pages: 2052-2525
+  title: The title of my first paper
+  url: https://doi.org/10.1016/j.iheduc.2008.03.001
+  volume: '100'
+  year: '2000'
