@@ -3,9 +3,9 @@
  "user_first_name": "{{cookiecutter.my_first_name}}",
  "databases": [
   {"name": "{{cookiecutter.my_group_name}}-private",
-   "url": "..",
+   "url": ".",
    "public": false,
-   "path": "./{{cookiecutter.database_name}}/db",
+   "path": "./db",
    "local": true}
  ]
 }

@@ -1,0 +1,12 @@
+{{cookiecutter.id_for_me}}_grp:
+  aka:
+    - {{cookiecutter.id_for_me}} Group
+  banner: ''
+  department: {{cookiecutter.current_work_dept}}
+  email: ''
+  institution: {{cookiecutter.current_work_organization}}
+  mission_statement: ''
+  name:  {{cookiecutter.my_group_name}}
+  pi_name: {{cookiecutter.my_first_name}} {{cookiecutter.my_last_name}}
+  projects: ''
+  website: ''

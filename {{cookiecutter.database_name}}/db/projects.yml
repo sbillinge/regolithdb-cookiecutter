@@ -1,0 +1,12 @@
+Regolith:
+  description: Project to put all my activities into databases for safe keeping 
+    and build reports from them when I need to
+  logo: https://github.com/regro/regolith/blob/master/docs/_static/regolith-logo.png?raw=true
+  name: Regolith database for (my) life
+  other: []
+  repo: ""
+  team:
+    - position: leader
+      name: {{cookiecutter.id_for_me}}
+      begin_year: 2021
+  website: https://github.com/regro/regolith
