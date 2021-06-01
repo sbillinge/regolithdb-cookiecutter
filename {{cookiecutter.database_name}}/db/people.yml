@@ -16,8 +16,9 @@
   employment:
     - organization: {{cookiecutter.current_work_organization}}
       begin_date: {{cookiecutter.current_work_begin_date}}
-      other: []
       department: {{cookiecutter.current_work_dept}}
+      group: {{cookiecutter.id_for_me}}_grp
+      other: []
       position: professor
   funding: []
   github_id: ""

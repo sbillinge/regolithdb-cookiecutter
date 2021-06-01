@@ -1,0 +1,8 @@
+acoauthor:
+  aka: 
+    - Coauthor, A
+  date: 2021-04-11
+  institution: {{cookiecutter.current_work_organization}}
+  name: A. Coauthor
+  notes:
+    - Coauthor is a coauthor
