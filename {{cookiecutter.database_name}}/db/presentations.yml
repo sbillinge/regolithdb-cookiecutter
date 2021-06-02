@@ -1,0 +1,29 @@
+my_first_seminar:
+  abstract: I will reflect on the emotions of returning to my
+    undergraduate department for a seminar after becoming
+    a super-successful person.
+  authors:
+    - {{cookiecutter.id_for_me}}
+  date: 2021-08-30
+  institution: {{cookiecutter.undergrad_institution}}
+  department: {{cookiecutter.undergrad_department}}
+  project:
+    - all
+  status: accepted
+  title: How to be a success
+  type: seminar
+an_invited_talk:
+  abstract: I will describe the amazing discovery that I made.
+  authors:
+    - {{cookiecutter.id_for_me}}
+    - acoauthor
+  begin_date: 2021-04-01
+  end_date: 2021-04-03
+  location: Los Alamos National Laboratory, Los Alamos, NM
+  meeting_name: Meeting on awesome discoveries
+  project:
+    - all
+  status: accepted
+  title: Discoveries Made
+  type: invited
+  webinar: true

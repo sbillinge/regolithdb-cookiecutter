@@ -1,0 +1,22 @@
+undergradinst:
+  aka: []
+  city: Boston
+  country: USA
+  departments:
+    my_ugad_dept:
+      name: {{cookiecutter.undergrad_department}}
+  name: {{cookiecutter.undergrad_institution}}
+  state: MA
+  street: ''
+  zip: 00456
+nowworkingplace:
+  aka: []
+  city: New York
+  country: USA
+  departments:
+    my_now_dept:
+      name: {{cookiecutter.current_work_dept}}
+  name: {{cookiecutter.current_work_organization}}
+  state: NY
+  street: ''
+  zip: '10027'

@@ -6,7 +6,7 @@ Regolith:
   other: []
   repo: ""
   team:
-    - position: leader
-      name: {{cookiecutter.id_for_me}}
+    - position: PI
+      name: {{cookiecutter.my_first_name}} {{cookiecutter.my_last_name}}
       begin_year: 2021
   website: https://github.com/regro/regolith
